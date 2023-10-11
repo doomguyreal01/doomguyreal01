@@ -11,6 +11,6 @@ Tôi đang học về react và github cũng như lập trình di động!
 *   🚀  I'm currently working on [Ứng dụng bán hàng](http://phonewhale.com)
 *   🧠  I'm learning Flutter
 *   🤝  I'm open to collaborating on Any projects
-*   ⚡  I'm Batman...Don't tell anyone.### Skills 
+*   ⚡  I'm Batman...Don't tell anyone.
 
   
