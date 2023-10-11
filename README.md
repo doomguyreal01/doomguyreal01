@@ -19,7 +19,7 @@ Tôi đang học về react và github cũng như lập trình di động!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=doomguyreal01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=doomguyreal01&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=doomguyreal01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
